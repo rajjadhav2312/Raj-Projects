@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.f855e6bc.css",
-    "main.js": "/my-app/static/js/main.85735d7a.js",
-    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.f855e6bc.css.map": "/my-app/static/css/main.f855e6bc.css.map",
-    "main.85735d7a.js.map": "/my-app/static/js/main.85735d7a.js.map",
-    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/WordWeb/static/css/main.f855e6bc.css",
+    "main.js": "/WordWeb/static/js/main.895d0a63.js",
+    "static/js/453.ed3810f9.chunk.js": "/WordWeb/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/WordWeb/index.html",
+    "main.f855e6bc.css.map": "/WordWeb/static/css/main.f855e6bc.css.map",
+    "main.895d0a63.js.map": "/WordWeb/static/js/main.895d0a63.js.map",
+    "453.ed3810f9.chunk.js.map": "/WordWeb/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.85735d7a.js"
+    "static/js/main.895d0a63.js"
   ]
 }
